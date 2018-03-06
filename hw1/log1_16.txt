@@ -1,0 +1,4005 @@
+D:\Python\Python36\python.exe F:/workspace/Python/MachineLearningFoundations/hw1_16.py
+PLA run 45 times.
+The algorithm has been run 1 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 2 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 3 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 4 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 5 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 6 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 7 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 8 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 9 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 10 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 11 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 12 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 13 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 14 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 15 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 16 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 17 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 18 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 19 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 20 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 21 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 22 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 23 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 24 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 25 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 26 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 27 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 28 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 29 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 30 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 31 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 32 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 33 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 34 of 2000 times.
+PLA run 9 times.
+The algorithm has been run 35 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 36 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 37 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 38 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 39 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 40 of 2000 times.
+PLA run 67 times.
+The algorithm has been run 41 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 42 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 43 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 44 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 45 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 46 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 47 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 48 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 49 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 50 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 51 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 52 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 53 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 54 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 55 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 56 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 57 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 58 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 59 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 60 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 61 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 62 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 63 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 64 of 2000 times.
+PLA run 9 times.
+The algorithm has been run 65 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 66 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 67 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 68 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 69 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 70 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 71 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 72 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 73 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 74 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 75 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 76 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 77 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 78 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 79 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 80 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 81 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 82 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 83 of 2000 times.
+PLA run 66 times.
+The algorithm has been run 84 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 85 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 86 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 87 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 88 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 89 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 90 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 91 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 92 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 93 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 94 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 95 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 96 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 97 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 98 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 99 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 100 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 101 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 102 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 103 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 104 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 105 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 106 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 107 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 108 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 109 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 110 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 111 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 112 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 113 of 2000 times.
+PLA run 69 times.
+The algorithm has been run 114 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 115 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 116 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 117 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 118 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 119 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 120 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 121 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 122 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 123 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 124 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 125 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 126 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 127 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 128 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 129 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 130 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 131 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 132 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 133 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 134 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 135 of 2000 times.
+PLA run 66 times.
+The algorithm has been run 136 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 137 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 138 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 139 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 140 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 141 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 142 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 143 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 144 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 145 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 146 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 147 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 148 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 149 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 150 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 151 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 152 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 153 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 154 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 155 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 156 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 157 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 158 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 159 of 2000 times.
+PLA run 46 times.
+The algorithm has been run 160 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 161 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 162 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 163 of 2000 times.
+PLA run 46 times.
+The algorithm has been run 164 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 165 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 166 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 167 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 168 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 169 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 170 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 171 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 172 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 173 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 174 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 175 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 176 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 177 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 178 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 179 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 180 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 181 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 182 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 183 of 2000 times.
+PLA run 9 times.
+The algorithm has been run 184 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 185 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 186 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 187 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 188 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 189 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 190 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 191 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 192 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 193 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 194 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 195 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 196 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 197 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 198 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 199 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 200 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 201 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 202 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 203 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 204 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 205 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 206 of 2000 times.
+PLA run 27 times.
+The algorithm has been run 207 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 208 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 209 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 210 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 211 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 212 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 213 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 214 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 215 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 216 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 217 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 218 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 219 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 220 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 221 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 222 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 223 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 224 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 225 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 226 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 227 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 228 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 229 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 230 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 231 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 232 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 233 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 234 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 235 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 236 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 237 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 238 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 239 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 240 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 241 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 242 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 243 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 244 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 245 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 246 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 247 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 248 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 249 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 250 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 251 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 252 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 253 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 254 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 255 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 256 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 257 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 258 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 259 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 260 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 261 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 262 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 263 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 264 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 265 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 266 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 267 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 268 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 269 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 270 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 271 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 272 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 273 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 274 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 275 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 276 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 277 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 278 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 279 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 280 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 281 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 282 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 283 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 284 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 285 of 2000 times.
+PLA run 16 times.
+The algorithm has been run 286 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 287 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 288 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 289 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 290 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 291 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 292 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 293 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 294 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 295 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 296 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 297 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 298 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 299 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 300 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 301 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 302 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 303 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 304 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 305 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 306 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 307 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 308 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 309 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 310 of 2000 times.
+PLA run 68 times.
+The algorithm has been run 311 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 312 of 2000 times.
+PLA run 30 times.
+The algorithm has been run 313 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 314 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 315 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 316 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 317 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 318 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 319 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 320 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 321 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 322 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 323 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 324 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 325 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 326 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 327 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 328 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 329 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 330 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 331 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 332 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 333 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 334 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 335 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 336 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 337 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 338 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 339 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 340 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 341 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 342 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 343 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 344 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 345 of 2000 times.
+PLA run 30 times.
+The algorithm has been run 346 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 347 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 348 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 349 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 350 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 351 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 352 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 353 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 354 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 355 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 356 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 357 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 358 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 359 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 360 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 361 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 362 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 363 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 364 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 365 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 366 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 367 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 368 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 369 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 370 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 371 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 372 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 373 of 2000 times.
+PLA run 51 times.
+The algorithm has been run 374 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 375 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 376 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 377 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 378 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 379 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 380 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 381 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 382 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 383 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 384 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 385 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 386 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 387 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 388 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 389 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 390 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 391 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 392 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 393 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 394 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 395 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 396 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 397 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 398 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 399 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 400 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 401 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 402 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 403 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 404 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 405 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 406 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 407 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 408 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 409 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 410 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 411 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 412 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 413 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 414 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 415 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 416 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 417 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 418 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 419 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 420 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 421 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 422 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 423 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 424 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 425 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 426 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 427 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 428 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 429 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 430 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 431 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 432 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 433 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 434 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 435 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 436 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 437 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 438 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 439 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 440 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 441 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 442 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 443 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 444 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 445 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 446 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 447 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 448 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 449 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 450 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 451 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 452 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 453 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 454 of 2000 times.
+PLA run 77 times.
+The algorithm has been run 455 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 456 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 457 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 458 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 459 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 460 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 461 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 462 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 463 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 464 of 2000 times.
+PLA run 65 times.
+The algorithm has been run 465 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 466 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 467 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 468 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 469 of 2000 times.
+PLA run 46 times.
+The algorithm has been run 470 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 471 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 472 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 473 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 474 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 475 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 476 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 477 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 478 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 479 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 480 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 481 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 482 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 483 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 484 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 485 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 486 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 487 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 488 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 489 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 490 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 491 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 492 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 493 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 494 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 495 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 496 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 497 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 498 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 499 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 500 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 501 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 502 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 503 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 504 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 505 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 506 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 507 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 508 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 509 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 510 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 511 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 512 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 513 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 514 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 515 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 516 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 517 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 518 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 519 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 520 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 521 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 522 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 523 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 524 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 525 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 526 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 527 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 528 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 529 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 530 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 531 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 532 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 533 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 534 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 535 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 536 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 537 of 2000 times.
+PLA run 46 times.
+The algorithm has been run 538 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 539 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 540 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 541 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 542 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 543 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 544 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 545 of 2000 times.
+PLA run 30 times.
+The algorithm has been run 546 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 547 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 548 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 549 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 550 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 551 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 552 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 553 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 554 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 555 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 556 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 557 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 558 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 559 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 560 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 561 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 562 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 563 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 564 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 565 of 2000 times.
+PLA run 25 times.
+The algorithm has been run 566 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 567 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 568 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 569 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 570 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 571 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 572 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 573 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 574 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 575 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 576 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 577 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 578 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 579 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 580 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 581 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 582 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 583 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 584 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 585 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 586 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 587 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 588 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 589 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 590 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 591 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 592 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 593 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 594 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 595 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 596 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 597 of 2000 times.
+PLA run 75 times.
+The algorithm has been run 598 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 599 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 600 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 601 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 602 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 603 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 604 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 605 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 606 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 607 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 608 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 609 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 610 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 611 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 612 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 613 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 614 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 615 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 616 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 617 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 618 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 619 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 620 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 621 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 622 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 623 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 624 of 2000 times.
+PLA run 11 times.
+The algorithm has been run 625 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 626 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 627 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 628 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 629 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 630 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 631 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 632 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 633 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 634 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 635 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 636 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 637 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 638 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 639 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 640 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 641 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 642 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 643 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 644 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 645 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 646 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 647 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 648 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 649 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 650 of 2000 times.
+PLA run 79 times.
+The algorithm has been run 651 of 2000 times.
+PLA run 71 times.
+The algorithm has been run 652 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 653 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 654 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 655 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 656 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 657 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 658 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 659 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 660 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 661 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 662 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 663 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 664 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 665 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 666 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 667 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 668 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 669 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 670 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 671 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 672 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 673 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 674 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 675 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 676 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 677 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 678 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 679 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 680 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 681 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 682 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 683 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 684 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 685 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 686 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 687 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 688 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 689 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 690 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 691 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 692 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 693 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 694 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 695 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 696 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 697 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 698 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 699 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 700 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 701 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 702 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 703 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 704 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 705 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 706 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 707 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 708 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 709 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 710 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 711 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 712 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 713 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 714 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 715 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 716 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 717 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 718 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 719 of 2000 times.
+PLA run 9 times.
+The algorithm has been run 720 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 721 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 722 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 723 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 724 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 725 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 726 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 727 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 728 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 729 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 730 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 731 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 732 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 733 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 734 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 735 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 736 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 737 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 738 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 739 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 740 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 741 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 742 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 743 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 744 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 745 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 746 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 747 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 748 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 749 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 750 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 751 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 752 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 753 of 2000 times.
+PLA run 49 times.
+The algorithm has been run 754 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 755 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 756 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 757 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 758 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 759 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 760 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 761 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 762 of 2000 times.
+PLA run 46 times.
+The algorithm has been run 763 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 764 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 765 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 766 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 767 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 768 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 769 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 770 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 771 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 772 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 773 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 774 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 775 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 776 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 777 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 778 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 779 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 780 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 781 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 782 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 783 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 784 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 785 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 786 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 787 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 788 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 789 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 790 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 791 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 792 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 793 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 794 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 795 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 796 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 797 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 798 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 799 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 800 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 801 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 802 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 803 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 804 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 805 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 806 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 807 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 808 of 2000 times.
+PLA run 66 times.
+The algorithm has been run 809 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 810 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 811 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 812 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 813 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 814 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 815 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 816 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 817 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 818 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 819 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 820 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 821 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 822 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 823 of 2000 times.
+PLA run 13 times.
+The algorithm has been run 824 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 825 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 826 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 827 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 828 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 829 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 830 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 831 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 832 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 833 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 834 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 835 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 836 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 837 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 838 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 839 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 840 of 2000 times.
+PLA run 49 times.
+The algorithm has been run 841 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 842 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 843 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 844 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 845 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 846 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 847 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 848 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 849 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 850 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 851 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 852 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 853 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 854 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 855 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 856 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 857 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 858 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 859 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 860 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 861 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 862 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 863 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 864 of 2000 times.
+PLA run 11 times.
+The algorithm has been run 865 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 866 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 867 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 868 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 869 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 870 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 871 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 872 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 873 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 874 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 875 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 876 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 877 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 878 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 879 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 880 of 2000 times.
+PLA run 81 times.
+The algorithm has been run 881 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 882 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 883 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 884 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 885 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 886 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 887 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 888 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 889 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 890 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 891 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 892 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 893 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 894 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 895 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 896 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 897 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 898 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 899 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 900 of 2000 times.
+PLA run 49 times.
+The algorithm has been run 901 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 902 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 903 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 904 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 905 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 906 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 907 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 908 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 909 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 910 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 911 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 912 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 913 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 914 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 915 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 916 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 917 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 918 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 919 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 920 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 921 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 922 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 923 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 924 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 925 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 926 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 927 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 928 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 929 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 930 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 931 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 932 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 933 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 934 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 935 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 936 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 937 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 938 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 939 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 940 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 941 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 942 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 943 of 2000 times.
+PLA run 73 times.
+The algorithm has been run 944 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 945 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 946 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 947 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 948 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 949 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 950 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 951 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 952 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 953 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 954 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 955 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 956 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 957 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 958 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 959 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 960 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 961 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 962 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 963 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 964 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 965 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 966 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 967 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 968 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 969 of 2000 times.
+PLA run 49 times.
+The algorithm has been run 970 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 971 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 972 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 973 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 974 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 975 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 976 of 2000 times.
+PLA run 30 times.
+The algorithm has been run 977 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 978 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 979 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 980 of 2000 times.
+PLA run 49 times.
+The algorithm has been run 981 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 982 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 983 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 984 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 985 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 986 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 987 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 988 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 989 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 990 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 991 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 992 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 993 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 994 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 995 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 996 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 997 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 998 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 999 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1000 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1001 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1002 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1003 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1004 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1005 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1006 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1007 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1008 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1009 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1010 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1011 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1012 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1013 of 2000 times.
+PLA run 13 times.
+The algorithm has been run 1014 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1015 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1016 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1017 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1018 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 1019 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1020 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1021 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1022 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1023 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1024 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1025 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1026 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1027 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 1028 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1029 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1030 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1031 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1032 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1033 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1034 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1035 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1036 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1037 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1038 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1039 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1040 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1041 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1042 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1043 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1044 of 2000 times.
+PLA run 68 times.
+The algorithm has been run 1045 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1046 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1047 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1048 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 1049 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1050 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1051 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1052 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1053 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1054 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1055 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1056 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1057 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1058 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1059 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1060 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1061 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1062 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1063 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1064 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1065 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1066 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1067 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1068 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1069 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1070 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1071 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1072 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1073 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1074 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1075 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1076 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1077 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1078 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1079 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1080 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1081 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1082 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1083 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1084 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1085 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1086 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1087 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1088 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1089 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1090 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1091 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1092 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1093 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1094 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1095 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1096 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1097 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1098 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1099 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1100 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1101 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1102 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1103 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1104 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1105 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1106 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1107 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1108 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1109 of 2000 times.
+PLA run 81 times.
+The algorithm has been run 1110 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1111 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1112 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1113 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1114 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1115 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1116 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 1117 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1118 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1119 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1120 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1121 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1122 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1123 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1124 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1125 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1126 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1127 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1128 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1129 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1130 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1131 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1132 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1133 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1134 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1135 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1136 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1137 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 1138 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1139 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1140 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1141 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 1142 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1143 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1144 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1145 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1146 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1147 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1148 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1149 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1150 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1151 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1152 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1153 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1154 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1155 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1156 of 2000 times.
+PLA run 49 times.
+The algorithm has been run 1157 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1158 of 2000 times.
+PLA run 49 times.
+The algorithm has been run 1159 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1160 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 1161 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1162 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1163 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1164 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1165 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1166 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1167 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1168 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1169 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1170 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1171 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1172 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1173 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1174 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1175 of 2000 times.
+PLA run 51 times.
+The algorithm has been run 1176 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1177 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1178 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1179 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1180 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1181 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1182 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1183 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1184 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1185 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1186 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1187 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1188 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1189 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1190 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1191 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1192 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1193 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1194 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1195 of 2000 times.
+PLA run 46 times.
+The algorithm has been run 1196 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1197 of 2000 times.
+PLA run 69 times.
+The algorithm has been run 1198 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1199 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1200 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1201 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1202 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1203 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1204 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1205 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1206 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1207 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1208 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1209 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1210 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1211 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1212 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1213 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1214 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1215 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1216 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1217 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1218 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1219 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1220 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1221 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1222 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1223 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1224 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1225 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1226 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1227 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1228 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1229 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1230 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 1231 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1232 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1233 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1234 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1235 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1236 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1237 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1238 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1239 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1240 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1241 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1242 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 1243 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1244 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1245 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1246 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1247 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1248 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1249 of 2000 times.
+PLA run 11 times.
+The algorithm has been run 1250 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1251 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1252 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1253 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1254 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1255 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1256 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1257 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1258 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1259 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1260 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1261 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 1262 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1263 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1264 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1265 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1266 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1267 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1268 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1269 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1270 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1271 of 2000 times.
+PLA run 11 times.
+The algorithm has been run 1272 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1273 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1274 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1275 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1276 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1277 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1278 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1279 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1280 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1281 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1282 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1283 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1284 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1285 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1286 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1287 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1288 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1289 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1290 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1291 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1292 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1293 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1294 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1295 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1296 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1297 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1298 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1299 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1300 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1301 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1302 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1303 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1304 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1305 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1306 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1307 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1308 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1309 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1310 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1311 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1312 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1313 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1314 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1315 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1316 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1317 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1318 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1319 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1320 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1321 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1322 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1323 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1324 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1325 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1326 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1327 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1328 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1329 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1330 of 2000 times.
+PLA run 16 times.
+The algorithm has been run 1331 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1332 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1333 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1334 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1335 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1336 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1337 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1338 of 2000 times.
+PLA run 30 times.
+The algorithm has been run 1339 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1340 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1341 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1342 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1343 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1344 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1345 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1346 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1347 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1348 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1349 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1350 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1351 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1352 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1353 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1354 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1355 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1356 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1357 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1358 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1359 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1360 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1361 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1362 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1363 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1364 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1365 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1366 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1367 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1368 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1369 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1370 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1371 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1372 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1373 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1374 of 2000 times.
+PLA run 11 times.
+The algorithm has been run 1375 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1376 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1377 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1378 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1379 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1380 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1381 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1382 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1383 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1384 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1385 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1386 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1387 of 2000 times.
+PLA run 77 times.
+The algorithm has been run 1388 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1389 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1390 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1391 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1392 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1393 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1394 of 2000 times.
+PLA run 30 times.
+The algorithm has been run 1395 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1396 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1397 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1398 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1399 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1400 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1401 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1402 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1403 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1404 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1405 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1406 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1407 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1408 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1409 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1410 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1411 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1412 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1413 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1414 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1415 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1416 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1417 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1418 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1419 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1420 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1421 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1422 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1423 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1424 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1425 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1426 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1427 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1428 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1429 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1430 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1431 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1432 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1433 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1434 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1435 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1436 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1437 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1438 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1439 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1440 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1441 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1442 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1443 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1444 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1445 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1446 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1447 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1448 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1449 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1450 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1451 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1452 of 2000 times.
+PLA run 16 times.
+The algorithm has been run 1453 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1454 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1455 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1456 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1457 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1458 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1459 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1460 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1461 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1462 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1463 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1464 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1465 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1466 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1467 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1468 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1469 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1470 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1471 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1472 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1473 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1474 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1475 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1476 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1477 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1478 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1479 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1480 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1481 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1482 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1483 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1484 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1485 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1486 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1487 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1488 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1489 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1490 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1491 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1492 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1493 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1494 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1495 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1496 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1497 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1498 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1499 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1500 of 2000 times.
+PLA run 51 times.
+The algorithm has been run 1501 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1502 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1503 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 1504 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1505 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1506 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1507 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1508 of 2000 times.
+PLA run 49 times.
+The algorithm has been run 1509 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1510 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1511 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1512 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1513 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1514 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1515 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1516 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1517 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1518 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1519 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1520 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1521 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1522 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1523 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1524 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1525 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1526 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1527 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1528 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1529 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1530 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1531 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1532 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1533 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1534 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1535 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1536 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1537 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1538 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1539 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1540 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1541 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1542 of 2000 times.
+PLA run 11 times.
+The algorithm has been run 1543 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1544 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1545 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1546 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1547 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1548 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1549 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1550 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1551 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1552 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1553 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1554 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1555 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1556 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1557 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1558 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1559 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1560 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1561 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1562 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1563 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1564 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1565 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1566 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1567 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1568 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1569 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1570 of 2000 times.
+PLA run 73 times.
+The algorithm has been run 1571 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1572 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1573 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1574 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1575 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1576 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1577 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1578 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 1579 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1580 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 1581 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1582 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1583 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 1584 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1585 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1586 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1587 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1588 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1589 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1590 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1591 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1592 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1593 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1594 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1595 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1596 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1597 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1598 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 1599 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1600 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1601 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1602 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1603 of 2000 times.
+PLA run 68 times.
+The algorithm has been run 1604 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1605 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1606 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1607 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1608 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1609 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1610 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 1611 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1612 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1613 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1614 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1615 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1616 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1617 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1618 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1619 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1620 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1621 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1622 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1623 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1624 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1625 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1626 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1627 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1628 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1629 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1630 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1631 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1632 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1633 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1634 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1635 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1636 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1637 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1638 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1639 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1640 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1641 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1642 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1643 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1644 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1645 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1646 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1647 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1648 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1649 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 1650 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1651 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1652 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1653 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1654 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1655 of 2000 times.
+PLA run 30 times.
+The algorithm has been run 1656 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1657 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1658 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1659 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1660 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1661 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1662 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1663 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1664 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1665 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1666 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1667 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1668 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1669 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1670 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 1671 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1672 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1673 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1674 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1675 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1676 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1677 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1678 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1679 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1680 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1681 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1682 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1683 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1684 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1685 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1686 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1687 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1688 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1689 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1690 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1691 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1692 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1693 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1694 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1695 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1696 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1697 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1698 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1699 of 2000 times.
+PLA run 51 times.
+The algorithm has been run 1700 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1701 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1702 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1703 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1704 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1705 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1706 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1707 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1708 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1709 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1710 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1711 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1712 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1713 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 1714 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1715 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1716 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1717 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1718 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1719 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1720 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1721 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1722 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1723 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1724 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1725 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1726 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1727 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1728 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1729 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1730 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1731 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1732 of 2000 times.
+PLA run 66 times.
+The algorithm has been run 1733 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1734 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1735 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1736 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1737 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1738 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1739 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1740 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1741 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1742 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1743 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1744 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1745 of 2000 times.
+PLA run 9 times.
+The algorithm has been run 1746 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1747 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1748 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1749 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1750 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1751 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1752 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1753 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1754 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1755 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1756 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1757 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1758 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1759 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1760 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1761 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1762 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1763 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1764 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1765 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1766 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1767 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1768 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1769 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1770 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1771 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1772 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 1773 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1774 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1775 of 2000 times.
+PLA run 46 times.
+The algorithm has been run 1776 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1777 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1778 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1779 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1780 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1781 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1782 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1783 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1784 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1785 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1786 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1787 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1788 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1789 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1790 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1791 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1792 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1793 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1794 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1795 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1796 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1797 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1798 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1799 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1800 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1801 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1802 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1803 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1804 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1805 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1806 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1807 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1808 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1809 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1810 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1811 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1812 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1813 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1814 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1815 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1816 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1817 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1818 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1819 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1820 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1821 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1822 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1823 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1824 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1825 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1826 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1827 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1828 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1829 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1830 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1831 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1832 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1833 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1834 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1835 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1836 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 1837 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1838 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1839 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1840 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1841 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1842 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1843 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1844 of 2000 times.
+PLA run 64 times.
+The algorithm has been run 1845 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1846 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1847 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1848 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1849 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 1850 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1851 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1852 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1853 of 2000 times.
+PLA run 66 times.
+The algorithm has been run 1854 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1855 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1856 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1857 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1858 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1859 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1860 of 2000 times.
+PLA run 62 times.
+The algorithm has been run 1861 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1862 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1863 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1864 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1865 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1866 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1867 of 2000 times.
+PLA run 28 times.
+The algorithm has been run 1868 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1869 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1870 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1871 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1872 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1873 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1874 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1875 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1876 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1877 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1878 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1879 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1880 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1881 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1882 of 2000 times.
+PLA run 29 times.
+The algorithm has been run 1883 of 2000 times.
+PLA run 73 times.
+The algorithm has been run 1884 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1885 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1886 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1887 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1888 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1889 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1890 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1891 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1892 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1893 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1894 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1895 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1896 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1897 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1898 of 2000 times.
+PLA run 47 times.
+The algorithm has been run 1899 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1900 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1901 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1902 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1903 of 2000 times.
+PLA run 48 times.
+The algorithm has been run 1904 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1905 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1906 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1907 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1908 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1909 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1910 of 2000 times.
+PLA run 66 times.
+The algorithm has been run 1911 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1912 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1913 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1914 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1915 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1916 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1917 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1918 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1919 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1920 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1921 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1922 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1923 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1924 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1925 of 2000 times.
+PLA run 18 times.
+The algorithm has been run 1926 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1927 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1928 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1929 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1930 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1931 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1932 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1933 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1934 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1935 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1936 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1937 of 2000 times.
+PLA run 77 times.
+The algorithm has been run 1938 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1939 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1940 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1941 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1942 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1943 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1944 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1945 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1946 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1947 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1948 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1949 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1950 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1951 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1952 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1953 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1954 of 2000 times.
+PLA run 35 times.
+The algorithm has been run 1955 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1956 of 2000 times.
+PLA run 60 times.
+The algorithm has been run 1957 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 1958 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1959 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1960 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1961 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1962 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1963 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1964 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1965 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1966 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1967 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1968 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1969 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1970 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1971 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1972 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1973 of 2000 times.
+PLA run 24 times.
+The algorithm has been run 1974 of 2000 times.
+PLA run 31 times.
+The algorithm has been run 1975 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1976 of 2000 times.
+PLA run 52 times.
+The algorithm has been run 1977 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1978 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1979 of 2000 times.
+PLA run 39 times.
+The algorithm has been run 1980 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1981 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1982 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1983 of 2000 times.
+PLA run 41 times.
+The algorithm has been run 1984 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1985 of 2000 times.
+PLA run 22 times.
+The algorithm has been run 1986 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1987 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1988 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1989 of 2000 times.
+PLA run 20 times.
+The algorithm has been run 1990 of 2000 times.
+PLA run 26 times.
+The algorithm has been run 1991 of 2000 times.
+PLA run 45 times.
+The algorithm has been run 1992 of 2000 times.
+PLA run 50 times.
+The algorithm has been run 1993 of 2000 times.
+PLA run 54 times.
+The algorithm has been run 1994 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1995 of 2000 times.
+PLA run 56 times.
+The algorithm has been run 1996 of 2000 times.
+PLA run 58 times.
+The algorithm has been run 1997 of 2000 times.
+PLA run 33 times.
+The algorithm has been run 1998 of 2000 times.
+PLA run 37 times.
+The algorithm has been run 1999 of 2000 times.
+PLA run 43 times.
+The algorithm has been run 2000 of 2000 times.
+PLA run 40.4305 updates on average.
+Algorithm cost 469.51322054862976 seconds.
+
+Process finished with exit code 0

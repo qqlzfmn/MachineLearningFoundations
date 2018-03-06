@@ -1,0 +1,6 @@
+D:\Python\Python36\python.exe F:/workspace/Python/MachineLearningFoundations/hw1_15.py
+PLA run 45 updates.
+Learned w is [[-3.         3.0841436 -1.583081   2.391305   4.5287635]]
+Algorithm cost 0.29384469985961914 seconds.
+
+Process finished with exit code 0
