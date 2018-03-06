@@ -6,4 +6,7 @@
     根目录：MachineLearningFoundations
         └─每次作业的目录：hw*
                 ├─数据集目录：data_set
-                └─Python程序文件：hw*_*.py
+                ├─Python程序文件：hw*_*.py
+                └─题目MarkDown文件：hw*.md
+
+注：hw*.md文件请使用[Typora](https://www.typora.io/)打开以达到最佳观看效果
