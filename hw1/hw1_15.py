@@ -62,7 +62,7 @@ def pla(x_list, y_list):
 
 # 主函数
 if __name__ == '__main__':
-    data_set = load_data_set(".\data_set\hw1_15_train.dat")
+    data_set = load_data_set("./data_set/hw1_15_train.dat")
     x_data, y_data = data_set_processing(data_set)
     start_time = time.time()
     w, t = pla(x_data, y_data)

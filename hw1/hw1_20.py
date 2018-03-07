@@ -67,9 +67,9 @@ def test_error_rate(weight, x_list, y_list):
 
 # 主函数
 if __name__ == '__main__':
-    data_set = load_data_set(".\data_set\hw1_18_train.dat")
+    data_set = load_data_set("./data_set/hw1_18_train.dat")
     x_data, y_data = data_set_processing(data_set)
-    test_set = load_data_set(".\data_set\hw1_18_test.dat")
+    test_set = load_data_set("./data_set/hw1_18_test.dat")
     x_test, y_test = data_set_processing(test_set)
     sum_rate = 0
     start_time = time.time()

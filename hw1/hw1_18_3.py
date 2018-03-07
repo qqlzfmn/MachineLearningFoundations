@@ -98,6 +98,6 @@ if __name__ == '__main__':
     for i in range(2000):
         my_Pocket = Pocket(5, 500, 500)
         print('The ' + str(i + 1) + 'th error rate is ' + str(
-            my_Pocket.testError('.\data_set\hw1_18_train.dat', '.\data_set\hw1_18_test.dat')))
-        average_error_rate += my_Pocket.testError('.\data_set\hw1_18_train.dat', '.\data_set\hw1_18_test.dat')
+            my_Pocket.testError('./data_set/hw1_18_train.dat', './data_set/hw1_18_test.dat')))
+        average_error_rate += my_Pocket.testError('./data_set/hw1_18_train.dat', './data_set/hw1_18_test.dat')
     print(average_error_rate / 2000.0)
