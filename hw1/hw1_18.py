@@ -1,7 +1,6 @@
 import random
 import copy
 import time
-import matplotlib.pyplot as plt
 
 
 # 导入数据集  输入文件路径，输出一个5×400的列表
@@ -107,15 +106,11 @@ if __name__ == '__main__':
     x_test, y_test = data_set_processing(test_set)
     sum_rate = 0
     start_time = time.time()
-    rates = []
     for t in range(20):  # 求2000次错误率，取均值
         w = pocket(x_data, y_data)
         rate = test_error_rate(w, x_test, y_test)
-        rates.append(rate)
         sum_rate = sum_rate + rate
         print('The ' + str(t + 1) + 'th error rate is ' + str(rate))
     end_time = time.time()
     print('Average error rate is ' + str(float(sum_rate) / 20))
     print('Algorithm cost ' + str(end_time - start_time) + ' seconds.')
-    plt.plot(list(rates))
-    plt.show()
