@@ -43,7 +43,7 @@ def pocket(x_list, y_list):
     update = 0  # PLA算法执行次数
     seed = list(range(row))  # 创建range(400)的列表
     random.shuffle(seed)  # 将seed列表变为随机种子
-    mistake = row
+    mistake = row  # 开始时所有点均为错误点
     while True:
         # 找到错误并修正weight
         for i in seed:  # 用随机种子执行PLA算法
