@@ -1,6 +1,4 @@
-from numpy import *
-from numpy.ma import dot
-from numpy.matlib import zeros
+import random
 import time
 
 
@@ -35,25 +33,48 @@ def sign(a):
         return -1
 
 
+# dot()函数  实现向量点乘
+def dot(a, b):
+    ans = 0
+    for i in range(len(a)):
+        ans = ans + a[i] * b[i]
+    return ans
+
+
+# plus()函数  实现向量相加
+def plus(a, b):
+    ans = []
+    for i in range(len(a)):
+        ans.append(a[i] + b[i])
+    return ans
+
+
+# mul()函数  实现数字乘向量
+def mul(a, b):
+    ans = []
+    for i in range(len(a)):
+        ans.append(a[i] * b)
+    return ans
+
+
 # PLA算法  输入预处理后的数据x、y，输出学习后的w和运行次数t
 def pla(x_list, y_list):
-    x_mat = mat(x_list)  # 将x列表转换为x矩阵方便用numpy计算
-    weight = mat(zeros(len(x_list[0])))  # w0 = [0, 0, 0, 0, 0]
-    row, col = shape(x_mat)  # 测量x矩阵的行列数
+    weight = [0 for d in range(len(x_list[0]))]  # w0 = [0, 0, 0, 0, 0]
+    row = len(x_list)  # 测量x矩阵的行列数
     update = 0  # PLA算法执行次数
-    seed = list(range(row))  # 创建range(400)的列表
-    random.shuffle(seed)  # 将seed列表变为随机种子
+    seed = list(range(row))  # 创建有序列表seed
+    random.shuffle(seed)  # 将seed打乱为随机种子
+    learning_efficiency = 0.5
     while True:
-        # 找到错误并修正weight
         for i in seed:  # 用随机种子执行PLA算法
-            h = sign(dot(weight, x_mat[i].transpose()))
+            h = sign(dot(weight, x_list[i]))
             if h != int(y_list[i]):
-                weight = weight + 0.5 * y_list[i] * x_mat[i]
+                weight = plus(weight, mul(mul(x_list[i], y_list[i]), learning_efficiency))
                 update = update + 1
         # 遍历D并求出weight在D上的错误数
         mistake = 0
         for j in range(row):
-            new_h = sign(dot(weight, x_mat[j].transpose()))
+            new_h = sign(dot(weight, x_list[j]))
             if new_h != int(y_list[j]):
                 mistake = mistake + 1
         # 当错误数降到0时停止算法
@@ -66,14 +87,13 @@ def pla(x_list, y_list):
 # 主函数
 if __name__ == '__main__':
     data_set = load_data_set("./data_set/hw1_15_train.dat")
-    x, y = data_set_processing(data_set)
+    x_data, y_data = data_set_processing(data_set)
     start_time = time.time()
     sum_updates = 0
-    for n in range(2000):
-        updates = pla(x, y)
-        print('The algorithm has been run ' + str(n + 1) + ' of 2000 times.')
+    for t in range(2000):
+        updates = pla(x_data, y_data)
         sum_updates = sum_updates + updates
-    aver_times = float(sum_updates) / 2000
+    aver_updates = float(sum_updates) / 2000
     end_time = time.time()
-    print('PLA run ' + str(aver_times) + ' updates on average.')
+    print('PLA run ' + str(aver_updates) + ' updates on average.')
     print('Algorithm cost ' + str(end_time - start_time) + ' seconds.')

@@ -1,5 +1,4 @@
 import random
-import copy
 import time
 
 
@@ -66,25 +65,26 @@ def pocket(x_list, y_list):
     seed = list(range(row))  # 创建range(400)的列表
     random.shuffle(seed)  # 将seed列表变为随机种子
     mistake = row
+    w_pocket = []
     while True:
         # 找到错误并修正weight
         for i in seed:  # 用随机种子执行PLA算法
             h = sign(dot(weight, x_list[i]))
             if h != int(y_list[i]):
-                new_weight = plus(weight, mul(x_list[i], y_list[i]))
+                weight = plus(weight, mul(x_list[i], y_list[i]))
                 update = update + 1
                 # 遍历D并求出新weight在D上的错误数
                 new_mistake = 0
                 for j in range(row):
-                    new_h = sign(dot(new_weight, x_list[j]))
+                    new_h = sign(dot(weight, x_list[j]))
                     if new_h != int(y_list[j]):
                         new_mistake = new_mistake + 1
                 # 当错误数比更新前少，则保留新的weight
                 if new_mistake < mistake:
-                    weight = copy.copy(new_weight)
+                    w_pocket = weight
                     mistake = new_mistake
                 if update >= 50:  # 50次更新
-                    return weight
+                    return w_pocket
 
 
 # 测试错误率  输入训练后的w和测试集的x、y，输出错误率
@@ -106,11 +106,11 @@ if __name__ == '__main__':
     x_test, y_test = data_set_processing(test_set)
     sum_rate = 0
     start_time = time.time()
-    for t in range(20):  # 求2000次错误率，取均值
+    for t in range(2000):  # 求2000次错误率，取均值
         w = pocket(x_data, y_data)
         rate = test_error_rate(w, x_test, y_test)
         sum_rate = sum_rate + rate
         print('The ' + str(t + 1) + 'th error rate is ' + str(rate))
     end_time = time.time()
-    print('Average error rate is ' + str(float(sum_rate) / 20))
+    print('Average error rate is ' + str(float(sum_rate) / 2000))
     print('Algorithm cost ' + str(end_time - start_time) + ' seconds.')

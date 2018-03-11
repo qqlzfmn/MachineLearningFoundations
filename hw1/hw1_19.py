@@ -1,6 +1,4 @@
-from numpy import *
-from numpy.ma import dot
-from numpy.matlib import zeros
+import random
 import time
 
 
@@ -35,19 +33,42 @@ def sign(a):
         return -1
 
 
+# dot()函数  实现向量点乘
+def dot(a, b):
+    ans = 0
+    for i in range(len(a)):
+        ans = ans + a[i] * b[i]
+    return ans
+
+
+# plus()函数  实现向量相加
+def plus(a, b):
+    ans = []
+    for i in range(len(a)):
+        ans.append(a[i] + b[i])
+    return ans
+
+
+# mul()函数  实现数字乘向量
+def mul(a, b):
+    ans = []
+    for i in range(len(a)):
+        ans.append(a[i] * b)
+    return ans
+
+
 # PLA算法  输入预处理后的数据x、y，输出学习后的w和运行次数t
 def pla(x_list, y_list):
-    x_mat = mat(x_list)  # 将x列表转换为x矩阵方便用numpy计算
-    weight = mat(zeros(len(x_list[0])))  # w0 = [0, 0, 0, 0, 0]
-    row, col = shape(x_mat)  # 测量x矩阵的行列数
+    weight = [0 for d in range(len(x_list[0]))]  # w0 = [0, 0, 0, 0, 0]
+    row = len(x_list)  # 测量x矩阵的行列数
     update = 0  # PLA算法执行次数
-    seed = list(range(row))  # 创建range(400)的列表
-    random.shuffle(seed)  # 将seed列表变为随机种子
+    seed = list(range(row))  # 创建有序列表seed
+    random.shuffle(seed)  # 将seed打乱为随机种子
     while True:
         for i in seed:  # 用随机种子执行PLA算法
-            h = sign(dot(weight, x_mat[i].transpose()))
+            h = sign(dot(weight, x_list[i]))
             if h != int(y_list[i]):
-                weight = weight + y_list[i] * x_mat[i]
+                weight = plus(weight, mul(x_list[i], y_list[i]))
                 update = update + 1
                 if update >= 50:
                     return weight
@@ -55,13 +76,12 @@ def pla(x_list, y_list):
 
 # 测试错误率  输入训练后的w和测试集的x、y，输出错误率
 def test_error_rate(weight, x_list, y_list):
-    x_mat = mat(x_list)
     errors = 0
     for i in range(len(y_list)):
-        h = sign(dot(weight, x_mat[i].transpose()))
-        if h != y_list[i]:
+        h = sign(dot(weight, x_list[i]))
+        if h != int(y_list[i]):
             errors = errors + 1
-    error_rate = float(errors) / float(len(y_list))
+    error_rate = float(errors) / len(y_list)
     return error_rate
 
 
@@ -73,11 +93,11 @@ if __name__ == '__main__':
     x_test, y_test = data_set_processing(test_set)
     sum_rate = 0
     start_time = time.time()
-    for n in range(2000):  # 求2000次错误率，取均值
+    for t in range(2000):  # 求2000次错误率，取均值
         w = pla(x_data, y_data)
         rate = test_error_rate(w, x_test, y_test)
         sum_rate = sum_rate + rate
-        print('The ' + str(n + 1) + 'th error rate is ' + str(rate))
+        print('The ' + str(t + 1) + 'th error rate is ' + str(rate))
     end_time = time.time()
     print('Average error rate is ' + str(float(sum_rate) / 2000))
     print('Algorithm cost ' + str(end_time - start_time) + ' seconds.')

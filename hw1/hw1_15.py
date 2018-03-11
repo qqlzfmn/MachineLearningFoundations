@@ -1,9 +1,3 @@
-from numpy import *
-from numpy.ma import dot
-from numpy.matlib import zeros
-import time
-
-
 # 导入数据集  输入文件路径，输出一个5×400的列表
 def load_data_set(path):
     f = open(path)
@@ -35,23 +29,46 @@ def sign(a):
         return -1
 
 
+# dot()函数  实现向量点乘
+def dot(a, b):
+    ans = 0
+    for i in range(len(a)):
+        ans = ans + a[i] * b[i]
+    return ans
+
+
+# plus()函数  实现向量相加
+def plus(a, b):
+    ans = []
+    for i in range(len(a)):
+        ans.append(a[i] + b[i])
+    return ans
+
+
+# mul()函数  实现数字乘向量
+def mul(a, b):
+    ans = []
+    for i in range(len(a)):
+        ans.append(a[i] * b)
+    return ans
+
+
 # PLA算法  输入预处理后的数据x、y，输出学习后的w和运行次数t
 def pla(x_list, y_list):
-    x_mat = mat(x_list)  # 将x列表转换为x矩阵方便用numpy计算
-    weight = mat(zeros(len(x_list[0])))  # w0 = [0, 0, 0, 0, 0]
-    row, col = shape(x_mat)  # 测量x矩阵的行列数
+    weight = [0 for d in range(len(x_list[0]))]  # w0 = [0, 0, 0, 0, 0]
+    row = len(x_list)  # 测量x矩阵的行列数
     update = 0  # PLA算法执行次数
     while True:
         # 找到错误并修正weight
         for i in range(row):
-            h = sign(dot(weight, x_mat[i].transpose()))
+            h = sign(dot(weight, x_list[i]))
             if h != int(y_list[i]):
-                weight = weight + y_list[i] * x_mat[i]
+                weight = plus(weight, mul(x_list[i], y_list[i]))
                 update = update + 1
         # 遍历D并求出weight在D上的错误数
         mistake = 0
         for j in range(row):
-            new_h = sign(dot(weight, x_mat[j].transpose()))
+            new_h = sign(dot(weight, x_list[j]))
             if new_h != int(y_list[j]):
                 mistake = mistake + 1
         # 当错误数降到0时停止算法
@@ -64,9 +81,6 @@ def pla(x_list, y_list):
 if __name__ == '__main__':
     data_set = load_data_set("./data_set/hw1_15_train.dat")
     x_data, y_data = data_set_processing(data_set)
-    start_time = time.time()
     w, t = pla(x_data, y_data)
-    end_time = time.time()
     print('PLA run ' + str(t) + ' updates.')
     print('Learned w is ' + str(w))
-    print('Algorithm cost ' + str(end_time - start_time) + ' seconds.')
