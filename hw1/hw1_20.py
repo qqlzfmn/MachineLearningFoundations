@@ -59,7 +59,7 @@ def mul(a, b):
 
 # Pocket算法  输入预处理后的数据x、y，输出学习后的w和运行次数t
 def pocket(x_list, y_list):
-    weight = [0 for d in range(len(x_list[0]))]  # w0 = [0, 0, 0, 0, 0]
+    weight = [0] * len(x_list[0])  # w0 = [0, 0, 0, 0, 0]
     row = len(x_list)  # 测量x矩阵的行列数
     update = 0  # PLA算法执行次数
     seed = list(range(row))  # 创建range(400)的列表
